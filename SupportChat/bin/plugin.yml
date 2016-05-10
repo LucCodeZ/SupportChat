@@ -1,0 +1,10 @@
+name: SupportChat
+main: net.LucCodeZ.SupportChat.main
+version: 1.0
+author: LucCodeZ
+
+commands:
+  support:
+    description: Du brauchst hilfe?
+    usage: /support <request|join|leave|list>
+    aliases: [supp, sup, hilfe]
